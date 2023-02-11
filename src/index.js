@@ -5,6 +5,7 @@ const test = () => {
   if (a === b) {
     return a;
   }
+
   return result.push(b);
 };
 export default test;
