@@ -6,4 +6,5 @@ const test = () => {
   }
   return b;
 };
+
 export default test;
