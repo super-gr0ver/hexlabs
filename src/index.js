@@ -6,5 +6,5 @@ const test = () => {
   }
   return b;
 };
-const p = 'ppp';
+const p = 'pp';
 export default test;
