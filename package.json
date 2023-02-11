@@ -2,6 +2,7 @@
   "name": "hexlabs",
   "version": "1.0.0",
   "description": "\"Hexlabs\" - this is a test educational \"ped project\" for developing and consolidating skills in working with technology",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
