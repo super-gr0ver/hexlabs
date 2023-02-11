@@ -1,0 +1,19 @@
+{
+  "name": "hexlabs",
+  "version": "1.0.0",
+  "description": "\"Hexlabs\" - this is a test educational \"ped project\" for developing and consolidating skills in working with technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-gr0ver/hexlabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-gr0ver/hexlabs/issues"
+  },
+  "homepage": "https://github.com/super-gr0ver/hexlabs#readme"
+}
