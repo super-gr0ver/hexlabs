@@ -7,5 +7,5 @@ const test = () => {
   return b;
 };
 
-console.log('WOW!');
+console.log('WOW!!!');
 export default test;
